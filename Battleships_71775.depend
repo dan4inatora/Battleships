@@ -1,0 +1,247 @@
+# depslib dependency file v1.0
+1528830837 source:c:\users\dan4inatora\desktop\project_ships\battleships_71775\main.cpp
+	"Coordinates.h"
+	"Ship.h"
+	"Board.h"
+	"Player.h"
+	"Game.h"
+
+1528828885 source:c:\users\dan4inatora\desktop\project_ships\battleships_71775\src\coordinates.cpp
+	"Coordinates.h"
+
+1528646885 c:\users\dan4inatora\desktop\project_ships\battleships_71775\include\coordinates.h
+	<iostream>
+	<vector>
+
+1528732558 source:c:\users\dan4inatora\desktop\project_ships\battleships_71775\src\ship.cpp
+	"Ship.h"
+
+1528644565 c:\users\dan4inatora\desktop\project_ships\battleships_71775\include\ship.h
+	<string>
+	"Coordinates.h"
+
+1528821004 source:c:\users\dan4inatora\desktop\project_ships\battleships_71775\src\carrier.cpp
+	"Carrier.h"
+
+1528578365 c:\users\dan4inatora\desktop\project_ships\battleships_71775\include\carrier.h
+	"Ship.h"
+
+1528821004 source:c:\users\dan4inatora\desktop\project_ships\battleships_71775\src\cruiser.cpp
+	"Cruiser.h"
+
+1528578802 c:\users\dan4inatora\desktop\project_ships\battleships_71775\include\cruiser.h
+	"Ship.h"
+
+1528821004 source:c:\users\dan4inatora\desktop\project_ships\battleships_71775\src\destroyer.cpp
+	"Destroyer.h"
+
+1528578484 c:\users\dan4inatora\desktop\project_ships\battleships_71775\include\destroyer.h
+	"Ship.h"
+
+1528821004 source:c:\users\dan4inatora\desktop\project_ships\battleships_71775\src\battleship.cpp
+	"Battleship.h"
+
+1528578727 c:\users\dan4inatora\desktop\project_ships\battleships_71775\include\battleship.h
+	"Ship.h"
+
+1528821004 source:c:\users\dan4inatora\desktop\project_ships\battleships_71775\src\submarine.cpp
+	"Submarine.h"
+
+1528578727 c:\users\dan4inatora\desktop\project_ships\battleships_71775\include\submarine.h
+	"Ship.h"
+
+1528827770 source:c:\users\dan4inatora\desktop\project_ships\battleships_71775\src\board.cpp
+	"Board.h"
+
+1528814168 c:\users\dan4inatora\desktop\project_ships\battleships_71775\include\board.h
+	"Ship.h"
+	"Carrier.h"
+	"Battleship.h"
+	"Cruiser.h"
+	"Submarine.h"
+	"Destroyer.h"
+
+1528725012 source:c:\users\dan4inatora\desktop\project_ships\battleships_71775\src\shadowboard.cpp
+	"Shadowboard.h"
+
+1528725012 c:\users\dan4inatora\desktop\project_ships\battleships_71775\include\shadowboard.h
+	<iostream>
+
+1528835760 source:c:\users\dan4inatora\desktop\project_ships\battleships_71775\src\player.cpp
+	"Player.h"
+
+1528835485 c:\users\dan4inatora\desktop\project_ships\battleships_71775\include\player.h
+	"Board.h"
+	"Shadowboard.h"
+
+1528835683 source:c:\users\dan4inatora\desktop\project_ships\battleships_71775\src\game.cpp
+	"Game.h"
+
+1528829330 c:\users\dan4inatora\desktop\project_ships\battleships_71775\include\game.h
+	"Player.h"
+	<stdlib.h>
+
+1528794837 source:c:\users\dan4inatora\desktop\kpk_project\71775_1_battleship\main.cpp
+	"Coordinates.h"
+	"Ship.h"
+	"Board.h"
+	"Player.h"
+	"Game.h"
+
+1528610885 c:\users\dan4inatora\desktop\kpk_project\71775_1_battleship\include\coordinates.h
+	<iostream>
+	<vector>
+
+1528608565 c:\users\dan4inatora\desktop\kpk_project\71775_1_battleship\include\ship.h
+	<string>
+	"Coordinates.h"
+
+1528778168 c:\users\dan4inatora\desktop\kpk_project\71775_1_battleship\include\board.h
+	"Ship.h"
+	"Carrier.h"
+	"Battleship.h"
+	"Cruiser.h"
+	"Submarine.h"
+	"Destroyer.h"
+
+1528542365 c:\users\dan4inatora\desktop\kpk_project\71775_1_battleship\include\carrier.h
+	"Ship.h"
+
+1528542727 c:\users\dan4inatora\desktop\kpk_project\71775_1_battleship\include\battleship.h
+	"Ship.h"
+
+1528542802 c:\users\dan4inatora\desktop\kpk_project\71775_1_battleship\include\cruiser.h
+	"Ship.h"
+
+1528542727 c:\users\dan4inatora\desktop\kpk_project\71775_1_battleship\include\submarine.h
+	"Ship.h"
+
+1528542484 c:\users\dan4inatora\desktop\kpk_project\71775_1_battleship\include\destroyer.h
+	"Ship.h"
+
+1528799485 c:\users\dan4inatora\desktop\kpk_project\71775_1_battleship\include\player.h
+	"Board.h"
+	"Shadowboard.h"
+
+1528689012 c:\users\dan4inatora\desktop\kpk_project\71775_1_battleship\include\shadowboard.h
+	<iostream>
+
+1528793330 c:\users\dan4inatora\desktop\kpk_project\71775_1_battleship\include\game.h
+	"Player.h"
+	<stdlib.h>
+
+1528785004 source:c:\users\dan4inatora\desktop\kpk_project\71775_1_battleship\src\battleship.cpp
+	"Battleship.h"
+
+1528791770 source:c:\users\dan4inatora\desktop\kpk_project\71775_1_battleship\src\board.cpp
+	"Board.h"
+
+1528785004 source:c:\users\dan4inatora\desktop\kpk_project\71775_1_battleship\src\carrier.cpp
+	"Carrier.h"
+
+1528792885 source:c:\users\dan4inatora\desktop\kpk_project\71775_1_battleship\src\coordinates.cpp
+	"Coordinates.h"
+
+1528785004 source:c:\users\dan4inatora\desktop\kpk_project\71775_1_battleship\src\cruiser.cpp
+	"Cruiser.h"
+
+1528785004 source:c:\users\dan4inatora\desktop\kpk_project\71775_1_battleship\src\destroyer.cpp
+	"Destroyer.h"
+
+1528799962 source:c:\users\dan4inatora\desktop\kpk_project\71775_1_battleship\src\game.cpp
+	"Game.h"
+
+1528799760 source:c:\users\dan4inatora\desktop\kpk_project\71775_1_battleship\src\player.cpp
+	"Player.h"
+
+1528689012 source:c:\users\dan4inatora\desktop\kpk_project\71775_1_battleship\src\shadowboard.cpp
+	"Shadowboard.h"
+
+1528696558 source:c:\users\dan4inatora\desktop\kpk_project\71775_1_battleship\src\ship.cpp
+	"Ship.h"
+
+1528785004 source:c:\users\dan4inatora\desktop\kpk_project\71775_1_battleship\src\submarine.cpp
+	"Submarine.h"
+
+1528785004 source:c:\users\dan4inatora\desktop\uni\cleancode\kpk_project\71775_1_battleship\src\battleship.cpp
+	"Battleship.h"
+
+1528542727 c:\users\dan4inatora\desktop\uni\cleancode\kpk_project\71775_1_battleship\include\battleship.h
+	"Ship.h"
+
+1528608565 c:\users\dan4inatora\desktop\uni\cleancode\kpk_project\71775_1_battleship\include\ship.h
+	<string>
+	"Coordinates.h"
+
+1528610885 c:\users\dan4inatora\desktop\uni\cleancode\kpk_project\71775_1_battleship\include\coordinates.h
+	<iostream>
+	<vector>
+
+1528791770 source:c:\users\dan4inatora\desktop\uni\cleancode\kpk_project\71775_1_battleship\src\board.cpp
+	"Board.h"
+
+1528778168 c:\users\dan4inatora\desktop\uni\cleancode\kpk_project\71775_1_battleship\include\board.h
+	"Ship.h"
+	"Carrier.h"
+	"Battleship.h"
+	"Cruiser.h"
+	"Submarine.h"
+	"Destroyer.h"
+
+1528542365 c:\users\dan4inatora\desktop\uni\cleancode\kpk_project\71775_1_battleship\include\carrier.h
+	"Ship.h"
+
+1528542802 c:\users\dan4inatora\desktop\uni\cleancode\kpk_project\71775_1_battleship\include\cruiser.h
+	"Ship.h"
+
+1528542727 c:\users\dan4inatora\desktop\uni\cleancode\kpk_project\71775_1_battleship\include\submarine.h
+	"Ship.h"
+
+1528542484 c:\users\dan4inatora\desktop\uni\cleancode\kpk_project\71775_1_battleship\include\destroyer.h
+	"Ship.h"
+
+1528785004 source:c:\users\dan4inatora\desktop\uni\cleancode\kpk_project\71775_1_battleship\src\carrier.cpp
+	"Carrier.h"
+
+1528792885 source:c:\users\dan4inatora\desktop\uni\cleancode\kpk_project\71775_1_battleship\src\coordinates.cpp
+	"Coordinates.h"
+
+1528785004 source:c:\users\dan4inatora\desktop\uni\cleancode\kpk_project\71775_1_battleship\src\cruiser.cpp
+	"Cruiser.h"
+
+1528785004 source:c:\users\dan4inatora\desktop\uni\cleancode\kpk_project\71775_1_battleship\src\destroyer.cpp
+	"Destroyer.h"
+
+1528799962 source:c:\users\dan4inatora\desktop\uni\cleancode\kpk_project\71775_1_battleship\src\game.cpp
+	"Game.h"
+
+1528793330 c:\users\dan4inatora\desktop\uni\cleancode\kpk_project\71775_1_battleship\include\game.h
+	"Player.h"
+	<stdlib.h>
+
+1528799485 c:\users\dan4inatora\desktop\uni\cleancode\kpk_project\71775_1_battleship\include\player.h
+	"Board.h"
+	"Shadowboard.h"
+
+1528689012 c:\users\dan4inatora\desktop\uni\cleancode\kpk_project\71775_1_battleship\include\shadowboard.h
+	<iostream>
+
+1528799760 source:c:\users\dan4inatora\desktop\uni\cleancode\kpk_project\71775_1_battleship\src\player.cpp
+	"Player.h"
+
+1528689012 source:c:\users\dan4inatora\desktop\uni\cleancode\kpk_project\71775_1_battleship\src\shadowboard.cpp
+	"Shadowboard.h"
+
+1528696558 source:c:\users\dan4inatora\desktop\uni\cleancode\kpk_project\71775_1_battleship\src\ship.cpp
+	"Ship.h"
+
+1528785004 source:c:\users\dan4inatora\desktop\uni\cleancode\kpk_project\71775_1_battleship\src\submarine.cpp
+	"Submarine.h"
+
+1569487541 source:c:\users\dan4inatora\desktop\uni\cleancode\kpk_project\71775_1_battleship\main.cpp
+	"Coordinates.h"
+	"Ship.h"
+	"Board.h"
+	"Player.h"
+	"Game.h"
+
